@@ -1,0 +1,5 @@
+name: GeneticModifying
+version: '${project.version}'
+main: me.dawson.geneticmodifying.GeneticModifying
+api-version: 1.18
+authors: [ Dawson ]
